@@ -58,6 +58,11 @@ h1:hover {
 
 }
 
+/* #quotation p::first-letter {
+    font-size: 4rem;
+    color: red;
+} */
+
 #author {
     font-size: 1rem;
     text-align: right;
