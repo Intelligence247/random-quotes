@@ -18,7 +18,7 @@ body {
 
 main {
     width: 50rem;
-    height: 25rem;
+    min-height: 20rem;
     background-color: var(--main);
     padding: 3rem 2rem;
     color: #64b6ac;
@@ -93,7 +93,7 @@ span {
 
     main {
         width: 30rem;
-        height: 25rem;
+        min-height: 20rem;
         padding: 1rem 0.5rem;
         font-weight: 500;
         font-size: 1.75rem;
