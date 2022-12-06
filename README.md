@@ -9,6 +9,7 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Tech/framework used
 - Html
 - Css
+- JavaScript
 ## Demo
 [Go Live](https://spontaneous-donut-ad7eb8.netlify.app)
 ![screenshot](./media/ss.png)
@@ -19,3 +20,4 @@ If you want to contact me you can reach me at
 ## Addtional Info
 - This is one of the series of project for the @CodeVillage.org 
 - This is not meant for production. It's for learning purpose only
+
